@@ -1,3 +1,5 @@
+video-platform : https://drive.google.com/file/d/1RoDk7KYJ5AneFacAgLBk-_yYV74vkS4m/view?usp=sharing
+
 # BlogFlow - A Full Stack Blogging Platform
 
 A comprehensive blogging platform built with MongoDB, Express.js, Node.js, and React.js.
